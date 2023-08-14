@@ -1,0 +1,14 @@
+:root{
+  font-family: 'Inter', sans-serif;
+}
+
+*{
+  margin: 0px;
+}
+
+body{
+  color: white;
+  background: url("./assets/background.png");
+  background-color: black;
+  overflow: hidden;
+}
